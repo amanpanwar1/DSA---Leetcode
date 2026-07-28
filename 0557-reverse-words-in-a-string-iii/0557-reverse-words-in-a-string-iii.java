@@ -8,6 +8,7 @@ class Solution {
             sb.append(temp);
             sb.append(" ");
         }
+        
         return sb.toString().trim();
 
     }
