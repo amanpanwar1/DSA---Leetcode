@@ -4,17 +4,16 @@ class Solution {
         long second = Long.MIN_VALUE;
         long third = Long.MIN_VALUE;
         
+
         for (int i : nums) {
             if (i == largest || i == second || i == third) {
                 continue;
             }
-            
             if (i > largest) {
                 third = second;     
                 second = largest;   
                 largest = i;        
-            } 
-
+            }
             else if (i > second) {
                 third = second;     
                 second = i;         
