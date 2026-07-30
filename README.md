@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0896-monotonic-array) |
+| [1480-running-sum-of-1d-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Queue
 |  |
