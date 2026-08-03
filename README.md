@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -110,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
