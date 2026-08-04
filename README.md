@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0896-monotonic-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
