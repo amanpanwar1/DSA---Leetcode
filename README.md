@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
 | ------- |
