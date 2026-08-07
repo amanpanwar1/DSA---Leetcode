@@ -3,7 +3,6 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
         int[] merge = new int[n + m];
-
         int i = 0;  
         int j = 0;  
         int k = 0;  
