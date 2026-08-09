@@ -7,6 +7,7 @@ class Solution {
                 count++;
             }
         }
+        
         if (count == n || count == 0) return true;
         if (count == 1 && Character.isUpperCase(word.charAt(0))) return true;
         return false;
