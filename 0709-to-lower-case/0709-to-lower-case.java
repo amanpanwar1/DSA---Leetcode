@@ -6,10 +6,10 @@ class Solution {
                 ch[i] = (char)(ch[i] + 32); // Explicit type Casting.
             }
         }
-        
         return new String(ch); 
     }
 }
+// jshef
 // EXTRA---------------------------------------------------
 // class Solution {                                       -
 //     public String toLowerCase(String s) {              -
