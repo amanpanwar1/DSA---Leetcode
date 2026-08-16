@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0500-keyboard-row) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpanwar1/DSA---Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
