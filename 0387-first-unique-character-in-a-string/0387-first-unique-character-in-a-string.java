@@ -8,6 +8,7 @@ class Solution {
             char x = s.charAt(i);
             if(count[x-'a'] == 1) return i;
             }
+            
         return -1;
     }     
 }
