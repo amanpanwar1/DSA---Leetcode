@@ -7,7 +7,6 @@ class Solution {
         int j = 0;  
         int k = 0;  
         double median = 0;
-        
         while (i < n && j < m) {
             if (nums1[i] <= nums2[j]) {
                 merge[k++] = nums1[i++];
@@ -28,6 +27,7 @@ class Solution {
             median = (merge[(k / 2) - 1] + merge[k / 2])/2.0;
         }
         return median;
-
     }
 }
+
+// gh
